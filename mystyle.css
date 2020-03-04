@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+}
+
+p1 {
+    font-size: 20px;
+}
+h1 {
+    color: lightblue; 
+    background-color: white;
+}
+img {
+  border-style: outset;
+  padding: 60px;
+  margin: 70px;
+}
+p {
+    text-align: center;
+}
